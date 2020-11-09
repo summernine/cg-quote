@@ -1,4 +1,4 @@
-# DR-Test
+# Quote-Test
 Download repo
 ```
 git clone git@github.com:summernine/cg-quote.git
