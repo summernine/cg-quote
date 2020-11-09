@@ -1,0 +1,20 @@
+{
+  "name": "cg-quote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "cypress run",
+    "open": "cypress open",
+    "xcover-test": "yarn run run --spec 'cypress/integration/*.js'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^5.5.0"
+  },
+  "dependencies": {
+    "faker": "^5.1.0"
+  }
+}
