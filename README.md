@@ -14,4 +14,5 @@ yarn xcover-test
 # Run ui test
 ```
 yarn open
+click getQuote.js to run test using a browser
 ```
